@@ -1,0 +1,27 @@
+Jacob Mitchell (jmitch32)
+jmitch32@u.rochester.edu
+Project 2: Shunting Yard Calculator
+3/5/2017
+
+This output is custom from TestClass2. To view the output of the given input, run TestClass with the name of the
+input and output files (input.txt and output.txt respectively).
+
+
+3.141592653589793
+2.718281828459045
+-6.168802634821506
+NaN
+6.0
+2.3520096058562596
+3.0
+0.03409090909090909
+6.123233995736766E-17
+1.633123935319537E16
+1.633123935319537E16
+1.0
+6.123233995736766E-17
+0.775397496610753
+0.849977565924807
+1.5485777614681775
+1.0
+2.0
